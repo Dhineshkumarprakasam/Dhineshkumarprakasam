@@ -3,6 +3,11 @@
 ## Welcome to My GitHub!
 
 Hello! I'm Dhinesh Kumar, an aspiring data scientist currently pursuing a Bachelor's degree in Computer Science at Vellore Institute of Technology. This GitHub repository showcases my journey and projects in web development and data science. I'm passionate about uncovering insights from data and building meaningful applications. Here, you'll find a collection of my projects, skills, and achievements.
+## Github Stats
+[![Dhineshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhineshkumarprakasam)](https://github.com/Dhineshkumarprakasam/github-readme-stats) 
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhineshkumarprakasam)](https://github.com/Dhineshkumarprakasam/github-readme-stats)
+
 
 ## About Me
 
@@ -20,72 +25,22 @@ Highest GPA: 9.49/10.00
 Percentage: 83.6%
 
 ## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=306998)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Programming Languages:** Python, C, C++
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Data Science:** Data Analysis, Machine Learning, NumPy, Pandas, Matplotlib, Scikit-Learn
+![MS Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**Development:** HTML, CSS
-
-**Operating Systems:** Windows, Linux
-
-**Database Management:** Oracle, MySQL, SQLite
-
-**Software:** MS Office, GitHub, Power BI, Figma
-
-**Other Skills:** Problem Solving, Critical Thinking, Communication, Leadership
-
-
-## Certifications
-
-- **Intro to Machine Learning** - Kaggle, Issued Jun 2024  
-  *Skills: Data Preprocessing, ETL, Machine Learning, Pandas, Predictive Analytics, Python*
-
-- **Python (Basic)** - HackerRank, Issued Jun 2024  
-  *Skills: Python, Problem Solving*
-
-- **IEEE Conference Paper** - IEEE, Issued Mar 2024  
-  *Skills: Presentation Skills*
-
-- **Problem Solving (Basic)** - HackerRank, Issued Feb 2024  
-  *Skills: Critical Thinking, Problem Solving, Python*
-
-- **Python Pandas** - Kaggle, Issued Dec 2023  
-  *Skills: Data Analytics, Data Preprocessing, Pandas, ETL*
-
-- **VAC - Programming in C** - Vellore Institute of Technology, Issued Nov 2023  
-  *Skills: C*
-
-- **Certified Senior Typist** - Government of Tamil Nadu, Issued Aug 2023  
-  *Skills: Data Entry, Typing, Copy Typing*
-
-- **Certified Junior Typist** - Government of Tamil Nadu, Issued Feb 2020  
-  *Skills: Data Entry, Typing, Copy Typing*
-
-## Honors & Awards
-
-- Secured 3rd place in Python Code-a-thon conducted by Capsule Labs during my first semester.
-- Received Merit Scholarship from VIT for academic excellence.
-- Awarded Cent Percent Attendance Scholarship from VIT for maintaining consistency.
-
-## Connect with Me
-
-- [GitHub](https://github.com/Dhineshkumarprakasam)
-- [LinkedIn](https://www.linkedin.com/in/dhineshkumar-prakasam-a7454b251/)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me for any collaboration or inquiries.
-
-<!--
-**Dhineshkumarprakasam/Dhineshkumarprakasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
