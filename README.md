@@ -84,7 +84,7 @@ Percentage: 83.6%
 - **Processor**: 3 GHz Intel Dual-Core
 - **RAM**: 4 GB
 - **Storage**: 512 GB HDD
-- **Operating System**: Parrot Security
+- **Operating System**: Linux, Parrot Security OS
 
 ### Device 3: Android Mobile
 - **Brand**: Vivo Y100A
