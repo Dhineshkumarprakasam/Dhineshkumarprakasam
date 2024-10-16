@@ -74,7 +74,7 @@ Percentage: 83.6%
 
 ### Device 1: Laptop
 - **Model**: Dell Inspiron 15
-- **Processor**: Intel i3-1115G4 11th Gen 3 GHz
+- **Processor**: Intel i3 Dual-Core 11th Gen 3 GHz
 - **RAM**: 8 GB
 - **Storage**: 512 GB SSD
 - **Operating System**: Windows 11
@@ -87,7 +87,7 @@ Percentage: 83.6%
 - **Operating System**: Parrot Security
 
 ### Device 3: Android Mobile
-- **Brand**: Vivo
+- **Brand**: Vivo Y100A
 - **Model**: Android Mobile
 - **Processor**: 2.2 GHz Snapdragon 695 Octa-Core
 - **RAM**: 8 GB
