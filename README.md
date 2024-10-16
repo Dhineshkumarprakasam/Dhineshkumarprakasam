@@ -76,6 +76,7 @@ Percentage: 83.6%
 ## My Devices
 
 ### Device 1: Laptop
+- **Brand**: Dell
 - **Model**: Dell Inspiron 15
 - **Processor**: Intel i3 Dual-Core 11th Gen 3 GHz
 - **RAM**: 8 GB
@@ -83,7 +84,7 @@ Percentage: 83.6%
 - **Operating System**: Windows 11
   
 ### Device 2: Personal Computer
-- **Model**: Intex
+- **Brand**: Intex
 - **Processor**: 3 GHz Intel Dual-Core
 - **RAM**: 4 GB
 - **Storage**: 512 GB HDD
@@ -97,5 +98,12 @@ Percentage: 83.6%
 - **Storage**: 128 GB
 - **Operating System**: Android 14, Funtouch OS
 
+### Device 4: Android Tablet
+- **Brand**: Samsung
+- **Model**: Galaxy Tab A7 Lite
+- **Processor**: Mediatek MT8768T
+- **RAM**: 3 GB
+- **Storage**: 32 GB
+- **Operating System**: Android 11
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me for any collaboration or inquiries.
