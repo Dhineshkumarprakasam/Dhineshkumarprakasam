@@ -70,5 +70,29 @@ Percentage: 83.6%
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
+## My Devices
+
+### Device 1: Laptop
+- **Model**: Dell Inspiron 15
+- **Processor**: Intel i3-1115G4 11th Gen 3 GHz
+- **RAM**: 8 GB
+- **Storage**: 512 GB SSD
+- **Operating System**: Windows 11
+  
+### Device 2: Personal Computer
+- **Model**: Intex
+- **Processor**: 3 GHz Intel Dual-Core
+- **RAM**: 4 GB
+- **Storage**: 512 GB HDD
+- **Operating System**: Parrot Security
+
+### Device 3: Android Mobile
+- **Brand**: Vivo
+- **Model**: Android Mobile
+- **Processor**: 2.2 GHz Snapdragon 695 Octa-Core
+- **RAM**: 8 GB
+- **Storage**: 128 GB
+- **Operating System**: Android 14, Funtouch OS
+
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me for any collaboration or inquiries.
