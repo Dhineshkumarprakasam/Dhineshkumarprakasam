@@ -104,6 +104,6 @@ Percentage: 83.6%
 - **Processor**: Mediatek MT8768T
 - **RAM**: 3 GB
 - **Storage**: 32 GB
-- **Operating System**: Android 11
+- **Operating System**: Android 11, One UI
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me for any collaboration or inquiries.
