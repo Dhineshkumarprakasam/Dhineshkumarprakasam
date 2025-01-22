@@ -1,12 +1,4 @@
-# Dhinesh Kumar's GitHub Profile  
-
-<div style="text-align: center; margin-top: 20px;">
-  <div style="display: inline-block; border: 2px solid #4CAF50; border-radius: 10px; padding: 10px; background: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin: 0; font-family: Arial, sans-serif; color: #333;">Visitor's Count</h3>
-    <img src="https://profile-counter.glitch.me/Dhineshkumarprakasam/count.svg" alt="Visitor Count" style="display: block; margin: 10px auto; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-  </div>
-</div>
-
+# Dhinesh Kumar's GitHub Profile  <img align="right" src="https://komarev.com/ghpvc/?username=Dhineshkumarprakasam&color=01796F&style=for-the-badge" alt="Visitor's Count" />
 
 ## Welcome to My GitHub!
 
