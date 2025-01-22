@@ -1,7 +1,6 @@
 # Dhinesh Kumar's GitHub Profile  
 
-## Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/Dhineshkumarprakasam/count.svg)
-
+**Visitor Count:** ![Visitor Count](https://profile-counter.glitch.me/Dhineshkumarprakasam/count.svg)
 
 ## Welcome to My GitHub!
 
