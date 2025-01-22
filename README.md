@@ -1,6 +1,5 @@
-# Dhinesh Kumar's GitHub Profile   
 ![Visitor Count](https : //profile-counter.glitch.me/{Dhineshkumarprakasam}/count.svg)
-
+# Dhinesh Kumar's GitHub Profile   
 
 ## Welcome to My GitHub!
 
