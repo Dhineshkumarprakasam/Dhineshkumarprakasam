@@ -1,4 +1,4 @@
-# Dhinesh Kumar's GitHub Profile  <img align="right" src="https://komarev.com/ghpvc/?username=Dhineshkumarprakasam&color=01796F&style=for-the-badge" alt="Visitor's Count" />
+# Dhinesh Kumar's GitHub Profile  <img align="right" src="https://komarev.com/ghpvc/?username=Dhineshkumarprakasam&color=red&style=for-the-badge" alt="Visitor's Count" />
 
 ## Welcome to My GitHub!
 
