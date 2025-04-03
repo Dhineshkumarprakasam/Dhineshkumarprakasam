@@ -97,7 +97,7 @@ Percentage: 83.6%
 - **Processor**: 2.2 GHz Snapdragon 695 Octa-Core
 - **RAM**: 8 GB
 - **Storage**: 128 GB
-- **Operating System**: Android 14, Funtouch OS
+- **Operating System**: Android 15, Funtouch OS
 
 ### Device 4: Android Tablet
 - **Brand**: Samsung
