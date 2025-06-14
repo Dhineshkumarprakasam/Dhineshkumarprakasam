@@ -8,7 +8,8 @@ Hello! I'm Dhinesh Kumar, an aspiring data scientist currently pursuing a Bachel
 [![Dhineshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhineshkumarprakasam)](https://github.com/Dhineshkumarprakasam/github-readme-stats) 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhineshkumarprakasam)](https://github.com/Dhineshkumarprakasam/github-readme-stats)
-
+#
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Dhineshkumarprakasam)](https://wakatime.com/@Dhineshkumarprakasam)
 ## Who am i ?
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=&color=000000&width=435&lines=Hi%2C+I+am+a+Programmer;Hi%2C+I+am+a+Data+Analyst;Hi%2C+I+am+a+Student)](https://git.io/typing-svg)
 ## About Me
