@@ -7,6 +7,8 @@ Hello! I'm Dhinesh Kumar, an aspiring data scientist currently pursuing a Bachel
 ## Github Stats
 [![Dhineshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhineshkumarprakasam)](https://github.com/Dhineshkumarprakasam/github-readme-stats) 
 #
+![](https://nirzak-streak-stats.vercel.app/?userDhineshkumarprakasam&theme=default&hide_border=false)<br/> 
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhineshkumarprakasam&langs_count=50&hide=html,css,makefile,txt)](https://github.com/Dhineshkumarprakasam/github-readme-stats)
 
 ## Who am i ?
