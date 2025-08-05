@@ -25,7 +25,7 @@ Driven by innovation and curiosity, I am a **passionate student**, a **dedicated
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhineshkumarprakasam&langs_count=50&hide=html,css,makefile)](https://github.com/Dhineshkumarprakasam/github-readme-stats)
 
 ## Who am i ?
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=&color=000000&width=435&lines=Hi%2C+I+am+a+Programmer;Hi%2C+I+am+a+Data+Analyst;Hi%2C+I+am+a+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=&color=000000&width=435&lines=Hi%2C+I+am+a+Programmer;Hi%2C+I+am+a+Data+Analyst;Hi%2C+I+am+a+Web+Developer;Hi%2C+I+am+a+Flutter+Developer;Hi%2C+I+am+a+Student)](https://git.io/typing-svg)
 ## About Me
 I am deeply engaged in the field of data science, actively working on projects that involve data analysis, machine learning, and web development. I possess strong team-building and management skills and have a proven track record of success in various academic and extracurricular activities.
 
