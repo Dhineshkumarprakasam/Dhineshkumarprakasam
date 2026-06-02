@@ -19,9 +19,8 @@ Driven by innovation and curiosity, I am a **passionate student**, a **dedicated
 
 ## Github Stats
 
-[![Dhineshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhineshkumarprakasam)](https://github.com/Dhineshkumarprakasam/github-readme-stats) 
+[![Dhineshkumar's GitHub stats](https://github-readme-stats.shion.dev/api?username=Dhineshkumarprakasam&show_icons=true)](https://github.com/Dhineshkumarprakasam/github-readme-stats)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Dhineshkumarprakasam&theme=default&hide_border=false)<br/> 
 <!--
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhineshkumarprakasam&langs_count=5&hide=html,css,makefile)](https://github.com/Dhineshkumarprakasam/github-readme-stats)
