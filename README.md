@@ -12,7 +12,7 @@ workflows and managing backend infrastructure to support performant software sol
 
 Driven by innovation and curiosity, I am a **passionate student**, a **dedicated Computer Programmer**, an **innovative Web Developer**, a **fierce Data Science enthusiast**, and a **creative Mobile App Developer** using Flutter. My journey is powered by a relentless desire to create, explore, and bring impactful ideas to life.
 
-*   **🖥️ Backend Engineering:** I specialize in architecting scalable, high-performance backend systems. I leverage frameworks like **FastAPI, Spring Boot, and Node.js** to build robust REST APIs that prioritize reliability and clean code design.
+*   **🖥️ Backend Engineering:** I specialize in architecting scalable, high-performance backend systems. I leverage frameworks like **FastAPI, Flask and Node.js** to build robust REST APIs that prioritize reliability and clean code design.
 *   **🌐 System Optimization:** I am committed to writing efficient, low-latency code. My focus is on algorithmic excellence and system-level improvements to ensure software remains performant under demanding conditions.
 *   **📱 Mobile & Security:** I develop secure, cross-platform applications using **Flutter and Kotlin**. I focus on native-level security integrations to ensure data integrity and robust user privacy within a mobile environment.
 *   **🤖 AI & GenAI Workflows:** I design and implement advanced AI workflows, including **Retrieval-Augmented Generation (RAG)** and **Vector Databases**, to create intelligent, context-aware software solutions.
