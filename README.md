@@ -48,42 +48,9 @@ Percentage: 83.6%
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,java,dart,cpp,c,html,css,js" /> |
-| **Backend & Web** | <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,nodejs,express,flutter,bootstrap" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,flutter,bootstrap,jquery" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,redis,mongodb" /> |
 | **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,postman,figma" /> |
-
-
-## ✦ My Devices
-
-### Device 1: Laptop
-- **Brand**: Dell
-- **Model**: Dell Inspiron 15
-- **Processor**: Intel i3 Dual-Core 11th Gen 3 GHz
-- **RAM**: 8 GB
-- **Storage**: 512 GB SSD
-- **Operating System**: Windows 11
-  
-### Device 2: Personal Computer
-- **Brand**: Intex
-- **Processor**: 3 GHz Intel Dual-Core
-- **RAM**: 4 GB
-- **Storage**: 512 GB HDD
-- **Operating System**: Linux, Parrot OS
-
-### Device 3: Android Mobile
-- **Brand**: Vivo Y100A
-- **Model**: Android Mobile
-- **Processor**: 2.2 GHz Snapdragon 695 Octa-Core
-- **RAM**: 8 GB
-- **Storage**: 128 GB
-- **Operating System**: Android 15, Funtouch OS
-
-### Device 4: Android Tablet
-- **Brand**: Samsung
-- **Model**: Galaxy Tab A7 Lite
-- **Processor**: Mediatek MT8768T
-- **RAM**: 3 GB
-- **Storage**: 32 GB
-- **Operating System**: Android 11, One UI
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me for any collaboration or inquiries.
