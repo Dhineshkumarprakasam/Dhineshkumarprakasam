@@ -18,9 +18,26 @@ Driven by innovation and curiosity, I am a **passionate student**, a **dedicated
 *   **🤖 AI & GenAI Workflows:** I design and implement advanced AI workflows, including **Retrieval-Augmented Generation (RAG)** and **Vector Databases**, to create intelligent, context-aware software solutions.
 *   **📊 Data Science & Analytics:** I bridge the gap between raw data and actionable intelligence. I utilize **Python, Scikit-Learn, and Pandas** to perform advanced data wrangling, predictive modeling, and automated analysis.
 
-## Github Stats
+## ✦ Github Stats
 
-[![Dhineshkumar's GitHub stats](https://github-readme-stats.shion.dev/api?username=Dhineshkumarprakasam&show_icons=true)](https://github.com/Dhineshkumarprakasam/github-readme-stats)
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 0 10px;">
+        <img height="190" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dhineshkumarprakasam&langs_count=8&layout=compact&theme=light&border_radius=10&hide_border=true&card_width=200" />
+      </td>
+      <td style="border-left: 2px solid #d0d7de; padding: 0 10px;"></td>
+      <td style="padding: 0 10px;">
+        <img height="190" src="https://github-readme-stats-salesp07.vercel.app/api?username=Dhineshkumarprakasam&count_private=true&show_icons=true&theme=light&rank_icon=github&hide_border=true&border_radius=10&card_width=200" />
+      </td>
+      <td style="border-left: 2px solid #d0d7de; padding: 0 10px;"></td>
+      <td style="padding: 0 10px;">
+        <img height="190" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dhineshkumarprakasam&count_private=true&theme=light&hide_border=true&border_radius=10&card_width=200" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## ✦ Who am i ?
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=&color=000000&width=435&lines=Hi%2C+I+am+a+Programmer;Hi%2C+I+am+a+Software+Engineer;Hi%2C+I+am+a+FullStack+Developer;Hi%2C+I+am+a+Student)](https://git.io/typing-svg)
