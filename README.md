@@ -1,7 +1,7 @@
 # Dhinesh Kumar's GitHub Profile  
 <img align="right" src="https://komarev.com/ghpvc/?username=Dhineshkumarprakasam&color=red&style=for-the-badge" alt="Visitor's Count" />
 
-## Welcome to My GitHub!
+
 ### 👋 Hello! I'm Dhinesh Kumar
 
 Welcome to my GitHub! I am a Software engineer with experience in backend development, Python automation, and system optimization. Focused on building 
